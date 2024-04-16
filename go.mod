@@ -1,4 +1,4 @@
-module github.com/susanshi/filter
+module github.com/evantravers18/filter
 
 go 1.20
 
